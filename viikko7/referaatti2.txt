@@ -1,0 +1,6 @@
+Artikkelireferaatti 2 - Ohjelmistotuotantomenetelmien kehittyminen 1950-luvulta nykypäivään (Lauri Suomalainen)
+
+Artikkeli kertoo erilaisista ohjelmistotuotantomenetelmistä, joita on käytetty aiemmin ja joita käytetään nykyään, sekä kertoo niiden hyvistä ja huonoista puolista kehitysmenetelminä. 
+Vesiputousmalli on perinteinen ohjelmistotuotantomenetelmä, jossa eri ohjelmiston kehittämisen eri vaiheet seuraavat toisiaan. Vasta kun edellinen vaihe on saatu täysin valmiiksi ja hyvin dokumentoitua, voidaan siirtyä seuraavaan. Menetelmän ongelmana on, että ohjelmiston suunnittelun virheet tulevat esille vasta toteutuksessa ja testauksessa. Lisäksi on vaikea täysin tyhjentävästi selvittää kaikkia tarvittuja ohjelmiston sekä järjestelmän vaatimuksia etukäteen.
+Vesiputousmallia seuraavat inkrementaaliset ja iteratiiviset menetelmät, joissa ohjelmistoa kehitetään vaiheittain jaksoissa. Menetelmien seurauksena voitiin korjata vesiputousmallin suurin ongelma siitä, ettei edellisten kehitysvaiheiden tuotoksia voida enää muokata.
+Ketterät ohjelmistotuotantomenetelmät ovat uusin laajalti käytetty menetelmä. Ketterissä menetelmissä painotetaan dokumentoinnin ja hyvän etukäteen suunnittelun sijaan nopeaan ohjelmiston tuottamiseen ja toimittamiseen lyhyissä iteraatioissa. Menetelmille ominaista on myös tiivis yhteistyö asiakkaan kanssa ja nopea muutoksiin vastaaminen.
